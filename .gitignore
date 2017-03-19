@@ -3,6 +3,8 @@
 /target/
 target/
 .idea
+RUNNING_PID
+logs/
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
